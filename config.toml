@@ -7,13 +7,13 @@ title = 'Werner - Die Spezialkanzlei'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "AGeldsorgen?"
+  name = "Geldsorgen?"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
   name = "Feature"
   url= "#service"
-  weight = 1
+  weight = 2
   [[menu.Main]]
   name = "About"
   url= "/about/"
