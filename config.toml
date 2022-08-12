@@ -1,4 +1,4 @@
-baseURL = 'https://cohub-hugo.netlify.app'
+baseURL = 'https://werner.matthiasgreiner.com/'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
@@ -7,7 +7,7 @@ title = 'Werner - Die Spezialkanzlei'
 [Menu]
   # Main Menu
   [[menu.Main]]
-  name = "Exibhition"
+  name = "Geldsorgen?"
   url= "#gallery"
   weight = 1
   [[menu.Main]]
